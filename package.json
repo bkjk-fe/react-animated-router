@@ -1,0 +1,19 @@
+{
+  "name": "@bkjk/react-animated-router",
+  "version": "0.1.14",
+  "description": "Fork From qiqiboy/react-animated-router react 路由切换动画，支持嵌套路由 (nested routers)和动态路由（dynamic routers）。",
+  "main": "AnimatedRouter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkjk-fe/react-animated-router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkjk-fe/react-animated-router/issues"
+  },
+  "homepage": "https://github.com/bkjk-fe/react-animated-router#readme"
+}
